@@ -1,3 +1,2 @@
 # javascript-tip-calculator
-
-https://github.com/dipanshu-mahto/javascript-tip-calculator.git tap here for quick review
+https://dipanshu-mahto.github.io/javascript-tip-calculator/ tap here for quick review
